@@ -1,5 +1,5 @@
 # datasciencecoursera
 
-Final Project.
+Course Project.
 
 Good luck.
